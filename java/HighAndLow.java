@@ -1,7 +1,7 @@
 package java;
 
 import java.util.Arrays;
-public class Kata {
+public class HighAndLow {
   public static String highAndLow(String numbers) {
     String[] strNums = numbers.split(" ");
     int[] nums = new int[strNums.length];
