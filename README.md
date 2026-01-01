@@ -40,11 +40,12 @@ Again to remove decision fatigue, friction, and to make streaks visually obvious
 ## Naming Convention
 
 Files follow a simple, descriptive naming format:
-/YYYY-MM-DD-kata-name
+/kata-name
+/KataName
 
 Examples:
-- `2025-03-21-reversed-strings.js`
-- `2025-03-22-sum-of-positive.py`
+- `reversed-strings.js`
+- `StringScramble.java`
 
 This ensures:
 - Each day’s work is clearly identifiable
